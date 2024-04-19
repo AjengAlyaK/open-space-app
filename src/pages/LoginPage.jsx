@@ -23,7 +23,7 @@ function LoginPage() {
         <h2>
           See
           {' '}
-          <strong>The World</strong>
+          <strong>The World Alone</strong>
           ,
           {' '}
           <br />
